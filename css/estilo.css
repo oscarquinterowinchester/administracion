@@ -53,3 +53,57 @@ header{
     font-weight: 300;
     
     }
+    .contenedor-sobre-nosotros{
+
+        display: flex;
+        justify-content: space-evenly;
+    }
+    
+    
+   /*  header .header-texto{
+        display: flex;
+        height: 430px;
+        width: 100%;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column; /* this is for h1 and h2 to put them to columns
+        text-align: center;
+    } */
+    .header-texto h1{
+        font-size: 50px;
+        color: rgb(0, 0, 0);
+    }
+    .header-texto h2{
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+    font-weight: 300;
+    
+    }
+    .img-tw{
+    
+        width: 48%;
+        
+    }
+    .sobre-nosotros .contenido-textos{
+    
+        width: 48%;
+    }
+    .contenido-textos h3 span {
+        font-size: 1.3rem;
+        background: rgba(0, 189, 142, 0.534);
+        color: #fff;
+        border-radius: 90%;
+        display: inline-block;
+        text-align: center;
+        width: 30px;
+        height: 27px;
+        padding: 2px;
+        box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.5);
+        margin-right: 5px;
+    
+    }
+    .contenido-textos p {
+        padding: 5px 0 30px 15px;
+        font-weight: 300;
+        text-align: justify;
+    }
