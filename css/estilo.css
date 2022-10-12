@@ -64,7 +64,9 @@ header{
         justify-content: space-evenly;
         margin: 13px;
     }
-    
+    .contenedor{
+padding-bottom: 0px;
+    }
     
    /*  header .header-texto{
         display: flex;
@@ -99,7 +101,7 @@ header{
     }
     .sobre-nosotrosss .contenido-textos{
     
-        width: 46%;
+        width: 42%;
     }
     .sobre-nosotross .contenido-textos{
     
@@ -124,3 +126,35 @@ header{
         font-weight: 300;
         text-align: justify;
     }
+    /* footer */
+footer{
+    background: #414141;
+    padding: 60px 0 30px 0;
+    margin: auto;
+    overflow: hidden;
+}
+.contenedor-footer{
+    display: flex;
+    width: 90%;
+    justify-content: space-evenly;
+    margin:auto;
+    padding-bottom:50px ;
+    border-bottom: 1px solid #666;
+}
+.content-foo{
+    text-align: center;
+
+}
+.content-foo h4{
+    color: #fff;
+    border-bottom: 3px solid #1ed498;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+    
+}
+.titulo-final{
+    text-align: center;
+    font-size: 24px;
+    margin: 20px 0 0 0;
+    color: #9e9797;
+}
