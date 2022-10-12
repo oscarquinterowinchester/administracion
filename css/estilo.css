@@ -89,7 +89,12 @@ header{
         width: 48%;
         
     }
+    
     .sobre-nosotros .contenido-textos{
+    
+        width: 48%;
+    }
+    .sobre-nosotross .contenido-textos{
     
         width: 48%;
     }
