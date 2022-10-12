@@ -139,7 +139,7 @@ footer{
     justify-content: space-evenly;
     margin:auto;
     padding-bottom:50px ;
-    border-bottom: 1px solid #666;
+    border-bottom: 1px solid rgb(202, 53, 53);
 }
 .content-foo{
     text-align: center;
@@ -147,7 +147,7 @@ footer{
 }
 .content-foo h4{
     color: #fff;
-    border-bottom: 3px solid #1ed498;
+    border-bottom: 3px solid #da8f1f;
     padding-bottom: 5px;
     margin-bottom: 10px;
     
